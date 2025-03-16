@@ -1,0 +1,17 @@
+Signifier:diff,defer;  
+Signified:lack,illusion;  
+Object a:loss,cause,desire;  
+Desire:lack,metonymy;  
+Drive:repetition,beyond-pleasure;  
+Other:alienation,mirror;  
+Big Other:law,order,symbolic;  
+Subject:split,barred,lack;  
+Fantasy:screen,structure,jouissance;  
+Jouissance:excess,limit,pain;  
+Symbolic:law,structure,signifier;  
+Imaginary:image,identification,mirror;  
+Real:impossible,trauma,hole;  
+Name-of-the-Father:law,paternal,bar;  
+Phallus:signifier-lack,desire,limit;  
+Unconscious:structured,like-language;  
+Castration:limit,loss,entry-symbolic;
