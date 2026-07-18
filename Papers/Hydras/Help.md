@@ -89,7 +89,7 @@ The choice is yours:
 # 🌿 Optional: Contribute a New Hydra
 
 To contribute, follow this simple pattern:
-1. **Choose a Paper** in `/papers` that you want to respond to.
+1. **Choose a Paper** in `/papers` that you want to respond to, or add your own.
 2. **Write your Hydra** — a counterpoint, expansion, or recursion.
 3. Place it in `/hydras` using a meaningful name.
 4. Optional: cross-reference your Hydra and the Paper via commit message (the way the Singularity repo embeds meaning in commits).
